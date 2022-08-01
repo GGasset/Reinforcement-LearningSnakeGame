@@ -1,0 +1,9 @@
+[submodule "NeatNetwork"]
+	path = NeatNetwork
+	url = https://github.com/GGasset/NeatNetwork
+[submodule "SnakeGame"]
+	path = SnakeGame
+	url = https://github.com/GGasset/SnakeGame
+[submodule "DataStructures"]
+	path = DataStructures
+	url = https://github.com/GGasset/DataStructures
